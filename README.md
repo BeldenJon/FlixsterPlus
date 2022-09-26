@@ -38,7 +38,10 @@ GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The biggest challenges I had with this app was 
+  1) identifying that the gson module was not in the gradel build file
+  2) identifying that the JSONObject was actually a JSONArray
+  3) identifying the http address to the now_playing API
 
 ## License
 
